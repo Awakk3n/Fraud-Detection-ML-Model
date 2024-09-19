@@ -1,4 +1,5 @@
-# Fraud-Detection-ML-Model
+#Model 1
+## Fraud-Detection-ML-Model
 
 This is the DataSet used for Training and Prediction: https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
 
